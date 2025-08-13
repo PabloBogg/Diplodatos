@@ -1,0 +1,9 @@
+- Capítulos 2 y 3 de VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data (1st ed.). O’Reilly Media. Acceso gratuito: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+- Capítulo 2 de Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.). O’Reilly Media.
+
+- SQL Cookbook 2nd edition. Antony Molinaro, Robert de Graaf. O’Reilly Media.
+
+- SQLite Tutorial.
+
+- Feature Engineering en Kaggle: https://www.kaggle.com/code/ponybiam/feature-engineering-1-simple-features/notebook
