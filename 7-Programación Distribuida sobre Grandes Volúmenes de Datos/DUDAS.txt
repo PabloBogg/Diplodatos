@@ -1,0 +1,4 @@
+
+- TP2: 
+	- Ejercicio 3 -> Como implementar .cache? / Como detectar que el codigo es mas eficiente?
+	- Ejercicio 5 -> Como filtrar que es un numero?
